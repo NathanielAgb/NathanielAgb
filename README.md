@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Nathaniel. 👋🏾<br>As a data analyst, I enjoy finding solutions to complex issues.<br><br>💻 With *PHP* and some **Xampp**, I'm creating a hosted local site<br> that keeps data on a server on my personal computer.<br><br>📊I  am looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡I'm learning **pandas, numpy, and machine learning** right now <br>so I can handle more challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
+Hi there, I'm Nathaniel. 👋🏾<br>As a data analyst, I enjoy finding solutions to complex issues.<br><br>💻 With **PHP** and some **Xampp**, I'm creating a hosted local site<br> that keeps data on a server on my personal computer.<br><br>📊I  am looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡I'm learning **pandas, numpy, and machine learning** right now <br>so I can handle more challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
 
 
 ## 🌐 Socials:
