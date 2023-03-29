@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Nathaniel. 👋🏾<br>As a data analyst, I enjoy finding solutions to complex issues.<br><br>💻 With **PHP** and some **Xampp**, I'm creating a hosted local site<br> that keeps data on a server on my personal computer.<br><br>📊I  am looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡I'm learning **pandas, numpy, and machine learning** right now <br>so I can handle more challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
+ Hi there, I'm Nathaniel. 👋🏾<br>As a data analyst, I enjoy finding solutions to complex issues.<br><br>💻 With *PHP* and some **Xampp**, I'm creating a hosted local site that keeps data on <br>a server on my personal computer.<br><br>📊I  am looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡I'm learning **pandas, numpy, and machine learning** right now so I can handle more <br>challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
 
 
 ## 🌐 Socials:
@@ -12,13 +12,10 @@ Hi there, I'm Nathaniel. 👋🏾<br>As a data analyst, I enjoy finding solution
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanielAgb&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielAgb&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NathanielAgb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NathanielAgb&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NathanielAgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
