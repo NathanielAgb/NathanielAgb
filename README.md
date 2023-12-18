@@ -1,6 +1,6 @@
 # 💫 About Me:
  Hi there, I'm Nathaniel. 👋🏾<br>Proficient in utilizing Microsoft Office products to create efficient dashboard visualizations in Power B.I. and providing automated daily solutions for finance and account challenges.
- I am motivated by the passion to learn and make a difference.<br><br>📊I  am looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡I'm learning **pandas, numpy, and machine learning** right now so I can handle more <br>challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
+ I am motivated by the passion to learn and make a difference.<br><br>📊 Looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡 Learning **pandas, numpy, and machine learning** right now so I can handle more <br>challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
 
 
 ## 🌐 Socials:
