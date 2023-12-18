@@ -1,5 +1,6 @@
 # 💫 About Me:
- Hi there, I'm Nathaniel. 👋🏾<br>As a data analyst, I enjoy finding solutions to complex issues.<br><br>💻 With *PHP* and some **Xampp**, I'm creating a hosted local site that keeps data on <br>a server on my personal computer.<br><br>📊I  am looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡I'm learning **pandas, numpy, and machine learning** right now so I can handle more <br>challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
+ Hi there, I'm Nathaniel. 👋🏾<br>Proficient in utilizing Microsoft Office products to create efficient dashboard visualizations in Power B.I. and providing automated daily solutions for finance and account challenges.
+ I am motivated by the passion to learn and make a difference.<br><br>📊I  am looking to upload more of my projects from **Power b.i, SQL<br> and Tableau**<br><br>💡I'm learning **pandas, numpy, and machine learning** right now so I can handle more <br>challenging analytical tasks.<br><br>🪶Working on projects with colleagues both within and outside of <br>my region is something I am looking forward to.
 
 
 ## 🌐 Socials:
